@@ -16,7 +16,7 @@
 
 <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode,figma" alt="stacks" height="32">
+        <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,figma" alt="stacks" height="32">
       </a>
     </div>
   
